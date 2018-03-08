@@ -8,7 +8,7 @@
 @Created on 2018/3/6 15:12
 
 根据新浪微博提供API改编
-参照廖雪峰写的新浪微博API改编，该代码只支持python2
+参照廖雪峰写的新浪微博API改编
 
 """
 import requests
